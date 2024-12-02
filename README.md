@@ -40,15 +40,11 @@ I have worked on several full-stack projects that showcase my abilities in both 
 - **[Project 2 Name]** - A responsive, mobile-first landing page built with **HTML**, **CSS**, and **Tailwind CSS**.
 - **[Project 3 Name]** - An e-commerce app using **Redux Toolkit** for state management.
 
-You can explore more of my projects on this profile. Feel free to clone or contribute to any of them!
 
-## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-Feel free to explore my repositories, check out my projects, and reach out if you'd like to collaborate. Let's build something amazing together! 🌟
 
 <!--
 **davebeloved/davebeloved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
