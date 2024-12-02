@@ -19,7 +19,7 @@ I'm a **Software Developer** specializing in full-stack web development. With a 
 I work with a diverse set of tools to build modern, scalable, and maintainable web applications. Below are the technologies I use most frequently:
 
 ### Front-End:
-- https://img.shields.io/badge/HTML5-FF7A00?style=for-the-badge&logo=html5&logoColor=white
+- ![HTML5](https://img.shields.io/badge/HTML5-FF7A00?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -36,9 +36,9 @@ I work with a diverse set of tools to build modern, scalable, and maintainable w
 
 I have worked on several full-stack projects that showcase my abilities in both front-end and back-end development. You can find some of them below:
 
-- **[Project 1 Name]** - A web app built with **React**, **Node.js**, and **MongoDB**.
-- **[Project 2 Name]** - A responsive, mobile-first landing page built with **HTML**, **CSS**, and **Tailwind CSS**.
-- **[Project 3 Name]** - An e-commerce app using **Redux Toolkit** for state management.
+- **Accountsgoal** - A web app built with **React**, **Node.js**,  **MongoDB** and **OpenAI**. This web application automates workflow, where uer can upload excel documents and the system manipulates the data and tracks it, it also comprises of many features, here is the live link - https://www.accountsgoal.com
+- **Ardels** - A responsive, management software built with **HTML**, **CSS**, and **Tailwind CSS**.
+- **E-Studylite** - A learning software built with **HTML**, **CSS**, and **Tailwind CSS**.
 
 
 
