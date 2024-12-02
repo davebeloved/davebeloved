@@ -19,18 +19,18 @@ I'm a **Software Developer** specializing in full-stack web development. With a 
 I work with a diverse set of tools to build modern, scalable, and maintainable web applications. Below are the technologies I use most frequently:
 
 ### Front-End:
-- ![HTML5](https://img.shields.io/badge/HTML5-<color_code>?style=for-the-badge&logo=html5)
-- ![CSS3](https://img.shields.io/badge/CSS3-<color_code>?style=for-the-badge&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-<color_code>?style=for-the-badge&logo=javascript)
-- ![ReactJS](https://img.shields.io/badge/ReactJS-<color_code>?style=for-the-badge&logo=react)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-<color_code>?style=for-the-badge&logo=tailwindcss)
-- ![Redux](https://img.shields.io/badge/Redux-<color_code>?style=for-the-badge&logo=redux)
-- ![Context API](https://img.shields.io/badge/Context%20API-<color_code>?style=for-the-badge&logo=react)
+- ![HTML5](https://img.shields.io/badge/HTML5-FF7A00?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+- ![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Back-End:
-- ![Node.js](https://img.shields.io/badge/Node.js-<color_code>?style=for-the-badge&logo=node.js)
-- ![Express.js](https://img.shields.io/badge/Express.js-<color_code>?style=for-the-badge&logo=express)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-<color_code>?style=for-the-badge&logo=mongodb)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 💼 My Projects
 
