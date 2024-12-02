@@ -19,7 +19,7 @@ I'm a **Software Developer** specializing in full-stack web development. With a 
 I work with a diverse set of tools to build modern, scalable, and maintainable web applications. Below are the technologies I use most frequently:
 
 ### Front-End:
-- ![HTML5](https://img.shields.io/badge/HTML5-FF7A00?style=for-the-badge&logo=html5&logoColor=white)
+- https://img.shields.io/badge/HTML5-FF7A00?style=for-the-badge&logo=html5&logoColor=white
 - ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
