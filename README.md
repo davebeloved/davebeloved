@@ -11,7 +11,7 @@ I'm a **Software Developer** specializing in full-stack web development. With a 
 - 👯 I’m looking to collaborate on open-source projects that focus on web development and UI/UX design.
 - 🤔 I’m open to any suggestions and opportunities to contribute to the tech community.
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, or any related topic!
-- 📫 How to reach me: idadakpoyedavidson@gmail.com)
+- 📫 How to reach me: idadakpoyedavidson@gmail.com
 - ⚡ Fun fact: I love solving algorithmic challenges and learning new languages.
 
 ## 🛠️ My Tech Stack
